@@ -1,4 +1,6 @@
 # Slot Machine Project
 
-A small project to help me practice my python skills!
+A follow along project from youtube to practice my python skills:
+
+including functions, for loops, while loops, if else statements.
  
